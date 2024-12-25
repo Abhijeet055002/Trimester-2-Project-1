@@ -34,6 +34,6 @@ This project focuses on analyzing import-export trade data using unsupervised le
 - **Abhijeet** (055002)
 - **Jhalki Khulshrestha** (055017)
 
-**Group Number**: 2  
+**Group Number**: 19 
 **Trimester**: 2  
 **Project**: 1
